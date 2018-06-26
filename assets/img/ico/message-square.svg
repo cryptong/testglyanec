@@ -1,0 +1,20 @@
+<svg width="20" height="20" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>message-square</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-921 1652)">
+<g id="message-square">
+<g id="Page 1">
+<g id="feather icon">
+<g id="message square">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(922 -1651)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 4 14L 4 13C 3.73478 13 3.48043 13.1054 3.29289 13.2929L 4 14ZM 0 18L -1 18C -1 18.4045 -0.756358 18.7691 -0.382683 18.9239C -0.00900904 19.0787 0.421109 18.9931 0.707107 18.7071L 0 18ZM 17 12C 17 12.5523 16.5523 13 16 13L 16 15C 17.6569 15 19 13.6569 19 12L 17 12ZM 16 13L 4 13L 4 15L 16 15L 16 13ZM 3.29289 13.2929L -0.707107 17.2929L 0.707107 18.7071L 4.70711 14.7071L 3.29289 13.2929ZM 1 18L 1 2L -1 2L -1 18L 1 18ZM 1 2C 1 1.44772 1.44772 1 2 1L 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2ZM 2 1L 16 1L 16 -1L 2 -1L 2 1ZM 16 1C 16.5523 1 17 1.44772 17 2L 19 2C 19 0.343146 17.6569 -1 16 -1L 16 1ZM 17 2L 17 12L 19 12L 19 2L 17 2Z"/>
+</defs>
+</svg>

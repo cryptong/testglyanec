@@ -1,0 +1,20 @@
+<svg width="22" height="20" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>folder</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1377 1768)">
+<g id="folder">
+<g id="Page 1">
+<g id="feather icon">
+<g id="folder">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(1378 -1767)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 7 0L 7.83205 -0.5547C 7.64658 -0.832899 7.33435 -1 7 -1L 7 0ZM 9 3L 8.16795 3.5547C 8.35342 3.8329 8.66565 4 9 4L 9 3ZM 19 16C 19 16.5523 18.5523 17 18 17L 18 19C 19.6569 19 21 17.6569 21 16L 19 16ZM 18 17L 2 17L 2 19L 18 19L 18 17ZM 2 17C 1.44772 17 1 16.5523 1 16L -1 16C -1 17.6569 0.343146 19 2 19L 2 17ZM 1 16L 1 2L -1 2L -1 16L 1 16ZM 1 2C 1 1.44772 1.44772 1 2 1L 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2ZM 2 1L 7 1L 7 -1L 2 -1L 2 1ZM 6.16795 0.5547L 8.16795 3.5547L 9.83205 2.4453L 7.83205 -0.5547L 6.16795 0.5547ZM 9 4L 18 4L 18 2L 9 2L 9 4ZM 18 4C 18.5523 4 19 4.44772 19 5L 21 5C 21 3.34315 19.6569 2 18 2L 18 4ZM 19 5L 19 16L 21 16L 21 5L 19 5Z"/>
+</defs>
+</svg>

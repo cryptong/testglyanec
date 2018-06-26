@@ -1,0 +1,24 @@
+<svg width="16" height="16" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>plus</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-920 1708)">
+<g id="plus">
+<g id="Page 1">
+<g id="feather icon">
+<g id="plus">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(928 -1707)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_stroke" transform="translate(921 -1700)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 1 0C 1 -0.552285 0.552285 -1 0 -1C -0.552285 -1 -1 -0.552285 -1 0L 1 0ZM -1 14C -1 14.5523 -0.552285 15 0 15C 0.552285 15 1 14.5523 1 14L -1 14ZM -1 0L -1 14L 1 14L 1 0L -1 0Z"/>
+<path id="path1_stroke" d="M 0 -1C -0.552285 -1 -1 -0.552285 -1 0C -1 0.552285 -0.552285 1 0 1L 0 -1ZM 14 1C 14.5523 1 15 0.552285 15 0C 15 -0.552285 14.5523 -1 14 -1L 14 1ZM 0 1L 14 1L 14 -1L 0 -1L 0 1Z"/>
+</defs>
+</svg>

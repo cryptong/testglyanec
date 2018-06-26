@@ -1,0 +1,37 @@
+<svg width="32" height="32" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-245 1785)">
+<g id="Group">
+<g id="Rectangle">
+<use xlink:href="#path0_fill" transform="translate(245 -1785)" fill="#FFFFFF"/>
+<mask id="mask0_outline_ins">
+<use xlink:href="#path0_fill" fill="white" transform="translate(245 -1785)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path1_stroke_2x" transform="translate(245 -1785)" fill="#BEC7D1"/>
+</g>
+</g>
+<g id="arrow-left">
+<g id="Page 1">
+<g id="feather icon">
+<g id="arrow left">
+<g id="Shape">
+<use xlink:href="#path2_stroke" transform="translate(253 -1769)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_stroke" transform="translate(253 -1775)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 0 0L 32 0L 32 32L 0 32L 0 0Z"/>
+<path id="path1_stroke_2x" d="M 0 0L 0 -1L -1 -1L -1 0L 0 0ZM 32 0L 33 0L 33 -1L 32 -1L 32 0ZM 32 32L 32 33L 33 33L 33 32L 32 32ZM 0 32L -1 32L -1 33L 0 33L 0 32ZM 0 1L 32 1L 32 -1L 0 -1L 0 1ZM 31 0L 31 32L 33 32L 33 0L 31 0ZM 32 31L 0 31L 0 33L 32 33L 32 31ZM 1 32L 1 0L -1 0L -1 32L 1 32Z"/>
+<path id="path2_stroke" d="M 16 1C 16.5523 1 17 0.552285 17 0C 17 -0.552285 16.5523 -1 16 -1L 16 1ZM 0 -1C -0.552285 -1 -1 -0.552285 -1 0C -1 0.552285 -0.552285 1 0 1L 0 -1ZM 16 -1L 0 -1L 0 1L 16 1L 16 -1Z"/>
+<path id="path3_stroke" d="M 5.29289 12.7071C 5.68342 13.0976 6.31658 13.0976 6.70711 12.7071C 7.09763 12.3166 7.09763 11.6834 6.70711 11.2929L 5.29289 12.7071ZM 0 6L -0.707107 5.29289C -1.09763 5.68342 -1.09763 6.31658 -0.707107 6.70711L 0 6ZM 6.70711 0.707107C 7.09763 0.316583 7.09763 -0.316583 6.70711 -0.707107C 6.31658 -1.09763 5.68342 -1.09763 5.29289 -0.707107L 6.70711 0.707107ZM 6.70711 11.2929L 0.707107 5.29289L -0.707107 6.70711L 5.29289 12.7071L 6.70711 11.2929ZM 0.707107 6.70711L 6.70711 0.707107L 5.29289 -0.707107L -0.707107 5.29289L 0.707107 6.70711Z"/>
+</defs>
+</svg>

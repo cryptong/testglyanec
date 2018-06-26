@@ -1,0 +1,18 @@
+<svg width="19" height="24" viewBox="0 0 19 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>1hand</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-841 1860)">
+<g id="1hand">
+<g id="image 2">
+<use xlink:href="#path0_fill" fill="url(#pattern0)" transform="translate(841 -1860)"/>
+</g>
+</g>
+</g>
+<defs>
+<pattern id="pattern0" patternUnits="objectBoundingBox" patternContentUnits="objectBoundingBox" width="1" height="1">
+<use xlink:href="#image0" transform="matrix(0.0526316 0 0 0.0416667 0 0)"/>
+</pattern>
+<path id="path0_fill" d="M 0 0L 19 0L 19 24L 0 24L 0 0Z"/>
+<image id="image0" width="19" height="24" preserveAspectRatio="none" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAAYCAYAAAAYl8YPAAAChUlEQVRIDZWUz05TQRSHfygWRSMxom6MCxqJmLhXX8A3MI12YVyWhS9iJC5MdOMCo1tYauJGEmUhoreUP/UJTKgEUyyWe9sx39w55fZSiZzkZObOnPnmd87MXOmgHZd0snS/4krlaUdfEmNHtmMGcsFK5YoBmTuSoWBMhQljORWKwMb+R11+N76HpaF9BWl3WFI+dj8m9AYFDGVZIQ4YqonP7NTPGwSTSCxrI8UfpXJlNxzGiVT94WCWEzhOncysfrVa3XHCGimmrTQa4gcKQj6wCyww6wen44A9ND3pU6EEPn3I1AMQd+piHywLzvWjaNWFq4NKfxcLfqBQtInLh8GSJHE4Me122y0vR5Y2QnSWic3Nn949OKPA0qUFEsexd9a0Wi3v9MNd1DkAwMyYzJqpAYQaHFCz2fQeYOdRxu2euFee7gGfzDz3rH9BDLS9ve3w8ErGgaVFl649ePjIQ6ora30pmRIgOzs7Xg2Qra0t12g0ejBOMpb0W1Lza7Shldq6rk9NyjmnbrfrvdPp9NokSRTHsWgZX12r69bNG4hywLqS9iS1oi/vJh/PvPBBgAhmIS1wgzJnmy0trWhxYf6qpAQYJ9GR1EZhVK2rVtvoLTSIqTE4yvDZ13Oo4qnFwDCApLsbLb2dfPrspYflUzJljKNubf27Rs9wX31mXpnBcurqfmdL15Rkv6vVuhY/zJEiQrqmzIA9dR8/ffbqTA0QLFu/2TfzDJEiNT8AM3WtV2ngAXVWQ+CoDaroOH56WaN2TOxNTRV16crt7FxaWfs1Oql0945Wv71HAOucTWUX8fpPh5dBSynycSwmb+7nr9B28sqAEvQn0FsDQLax3QBifUH/Au8MrfRu8FBHAAAAAElFTkSuQmCC"/>
+</defs>
+</svg>

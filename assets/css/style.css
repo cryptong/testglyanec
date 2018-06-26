@@ -1,0 +1,321 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed');
+/* Clear Sans - платный шрифт */
+html, body{
+    font-family: 'Roboto Condensed', sans-serif;
+    color: #3A4047;
+    font-size: 16px;
+}
+.container{
+    position: relative;
+}
+p{
+    font-size: 14px;
+}
+h1{
+    font-size: 36px;
+}
+h2{
+    font-size: 24px;
+}
+h3{
+    font-size: 18px;
+}
+ul li{
+    list-style: none;
+}
+#header{
+    padding-top: 17px;
+}
+.row-flex {
+    display: flex;
+    flex-flow: row wrap;
+}
+.slogan-head{}
+.hourwork{
+    font-size: 14px;
+    font-weight: bold;
+}
+.account-blk{
+    line-height: 36px;
+}
+.account-blk a{
+    font-size: 14px;
+    color: #3A4047;
+}
+a.account{
+    margin-right: 50px;
+}
+a.account i{
+    color: #1AB0CE;
+}
+.phone-blk{
+    line-height: 36px;
+}
+.phone-blk img{width: 18px;}
+.phone-blk a{
+    color: #3A4047;
+}
+.phone-blk a.fblonk{
+    color: #3D76B9;
+    margin-right:10px;
+}
+.btn-group.open .dropdown-toggle{
+    box-shadow: inset 0 3px 5px rgba(0,0,0,0) !important;
+}
+.dropdown-menu{
+    right: 0 !important;
+    left: auto;
+    padding: 15px;
+}
+.glyphicon-chevron-down{
+    font-size: 11px;
+    margin-left: 10px ;
+}
+.shopping-cart i{
+    position: relative;
+    font-size: 44px;
+    color: #1AB0CE;
+    line-height: 80px;
+}
+.shopping-cart i span{
+    position: absolute;
+    top: -10px;
+    right:-15px;
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+    background: #1AB0CE;
+    text-align: center;
+    font-size: 14px;
+    color: #fff;
+    line-height: 30px;
+}
+
+/* navbar */
+#navbar{
+    box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.05);
+}
+.navbar{
+    text-transform: uppercase;
+    border: 0 !important;
+    background: transparent !important;
+    letter-spacing: 2px;
+    font-weight: bold;
+    margin-bottom: 0 !important;
+}
+
+.navbar-default .navbar-nav>.active>a,
+.navbar-default .navbar-nav>.active>a:focus,
+.navbar-default .navbar-nav>li>a:hover,
+.navbar-default .navbar-nav>.active>a:hover{
+    color:#1AB0CE !important;
+    background-color: transparent !important;
+    border-top: 1px solid #1AB0CE;
+}
+
+/* slider */
+#carousel{
+    height: 500px;
+    background: url(../img/bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+#carousel:after{
+    content: '';
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,.6);
+}
+#carousel .greeting{
+    position: absolute;
+    z-index: 1;
+    top:150px;
+    left:0;
+    width:100%;
+    text-align: center;
+}
+#carousel h1{
+    font-size: 57px;
+    color: #FFFFFF;
+}
+#carousel h2{
+    color: #FFFFFF;
+}
+#carousel button{
+    padding: 12px 22px;
+    color: #FFFFFF;
+    background: #1AB0CE;
+    border:0;
+    border-radius: 2px;
+}
+#carousel button:hover{
+    text-decoration: underline;
+}
+#carousel hr{
+    width: 120px;
+    border: 2px solid #FFFFFF;
+}
+
+/* products */
+#product .prod-info{
+    float: left;
+}
+#product .image-col{
+    float:left;
+    margin: 20px 15px 15px 0;
+    height: 100%;
+}
+#product ul{
+    padding: 0 !important;
+}
+#product .prod-info ul{
+    float: left;
+    margin-right: 35px;
+}
+#product a{
+    color:#3A4047;
+    font-size: 14px;
+}
+#product .bordered{
+    height: 100%;
+    margin: 30px 0;
+    padding: 15px;
+    box-shadow: 0px 0px 4px rgba(0, 0, 0, 0.2);
+}
+/* about */
+#about{
+    padding: 33px 0;
+}
+#about p{
+    margin-top: 34px; 
+}
+
+
+/* news */
+#news {
+    box-shadow: 0px -4px 4px rgba(0, 0, 0, 0.05);
+    padding: 10px;
+}
+#news .news-blk{
+    padding: 30px 15px;
+}
+#news h1{
+    margin-bottom: 50px;
+}
+#news .n-date{
+    color: #BEC7D1;
+}
+#news .news-blk a{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top:0;
+    left:0;
+    z-index: 1;
+    color: transparent !important;
+}
+#news .news-blk a:hover{
+    box-shadow: 0px 14px 24px rgba(0, 0, 0, 0.05), 0px -1px 0px #1AB0CE;
+}
+#news>a{
+    display: inline-block;
+    border:1px solid #f00;
+    margin: 50px;
+    border: 1px solid #1AB0CE;
+    border-radius: 2px;
+    padding: 6px 22px;
+    color: #1AB0CE;
+}
+.phovered{
+    color:#1AB0CE;
+    text-decoration:underline;
+}
+
+/* footer */
+#footer{
+    background: #F7F7F7;
+    font-size: 14px;
+}
+#footer .container{
+    padding: 20px 0 30px;
+}
+#footer a{
+    color: #3A4047;
+}
+#footer .infotext{
+    margin-top: 7px;
+}
+#footer ul{
+    padding: 0;
+    margin-right: 50px;
+    float: left;
+    line-height: 32px;
+}
+.copy{
+    font-size: 11px;
+}
+
+/* callback */
+#callback{
+    color: #fff;
+    background: #1AB0CE;
+    width: 108px;
+    height: 108px;
+    border-radius: 54px;
+    position:fixed;
+    right:50px;
+    bottom:50px;
+    text-align: center;
+    padding-top: 15px;
+}
+#callback .icon-phone{
+    display: inline-block;
+    font-size: 22px;
+}
+#callback:hover .icon-phone{
+    -moz-transform: rotate(15deg);
+    -ms-transform: rotate(15deg);
+    -webkit-transform: rotate(15deg);
+    -o-transform: rotate(15deg);
+    transform: rotate(15deg);
+}
+
+/* gloss */
+.gloss-top, .gloss-footer{
+    background: rgba(102,102,102,0);
+    background: -moz-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 25%, rgba(102,102,102,0) 27%, rgba(102,102,102,0.05) 29%, rgba(102,102,102,0.05) 49%, rgba(102,102,102,0) 51%, rgba(102,102,102,0.05) 53%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0) 70%, rgba(102,102,102,0.05) 72%, rgba(102,102,102,0.05) 78%, rgba(102,102,102,0) 80%, rgba(102,102,102,0.05) 82%, rgba(102,102,102,0) 99%, rgba(102,102,102,0) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(102,102,102,0)), color-stop(2%, rgba(102,102,102,0.05)), color-stop(25%, rgba(102,102,102,0.05)), color-stop(27%, rgba(102,102,102,0)), color-stop(29%, rgba(102,102,102,0.05)), color-stop(49%, rgba(102,102,102,0.05)), color-stop(51%, rgba(102,102,102,0)), color-stop(53%, rgba(102,102,102,0.05)), color-stop(68%, rgba(102,102,102,0.05)), color-stop(70%, rgba(102,102,102,0)), color-stop(72%, rgba(102,102,102,0.05)), color-stop(78%, rgba(102,102,102,0.05)), color-stop(80%, rgba(102,102,102,0)), color-stop(82%, rgba(102,102,102,0.05)), color-stop(99%, rgba(102,102,102,0)), color-stop(100%, rgba(102,102,102,0)));
+    background: -webkit-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 25%, rgba(102,102,102,0) 27%, rgba(102,102,102,0.05) 29%, rgba(102,102,102,0.05) 49%, rgba(102,102,102,0) 51%, rgba(102,102,102,0.05) 53%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0) 70%, rgba(102,102,102,0.05) 72%, rgba(102,102,102,0.05) 78%, rgba(102,102,102,0) 80%, rgba(102,102,102,0.05) 82%, rgba(102,102,102,0) 99%, rgba(102,102,102,0) 100%);
+    background: -o-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 25%, rgba(102,102,102,0) 27%, rgba(102,102,102,0.05) 29%, rgba(102,102,102,0.05) 49%, rgba(102,102,102,0) 51%, rgba(102,102,102,0.05) 53%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0) 70%, rgba(102,102,102,0.05) 72%, rgba(102,102,102,0.05) 78%, rgba(102,102,102,0) 80%, rgba(102,102,102,0.05) 82%, rgba(102,102,102,0) 99%, rgba(102,102,102,0) 100%);
+    background: -ms-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 25%, rgba(102,102,102,0) 27%, rgba(102,102,102,0.05) 29%, rgba(102,102,102,0.05) 49%, rgba(102,102,102,0) 51%, rgba(102,102,102,0.05) 53%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0) 70%, rgba(102,102,102,0.05) 72%, rgba(102,102,102,0.05) 78%, rgba(102,102,102,0) 80%, rgba(102,102,102,0.05) 82%, rgba(102,102,102,0) 99%, rgba(102,102,102,0) 100%);
+    background: linear-gradient(to right, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 25%, rgba(102,102,102,0) 27%, rgba(102,102,102,0.05) 29%, rgba(102,102,102,0.05) 49%, rgba(102,102,102,0) 51%, rgba(102,102,102,0.05) 53%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0) 70%, rgba(102,102,102,0.05) 72%, rgba(102,102,102,0.05) 78%, rgba(102,102,102,0) 80%, rgba(102,102,102,0.05) 82%, rgba(102,102,102,0) 99%, rgba(102,102,102,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#666666', GradientType=1 );
+}
+.gloss-content{
+    background: rgba(102,102,102,0);
+    background: -moz-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 32%, rgba(102,102,102,0) 34%, rgba(102,102,102,0.05) 35%, rgba(102,102,102,0.05) 65%, rgba(102,102,102,0) 66%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0.05) 99%, rgba(102,102,102,0) 100%);
+    background: -webkit-gradient(left top, right top, color-stop(0%, rgba(102,102,102,0)), color-stop(2%, rgba(102,102,102,0.05)), color-stop(32%, rgba(102,102,102,0.05)), color-stop(34%, rgba(102,102,102,0)), color-stop(35%, rgba(102,102,102,0.05)), color-stop(65%, rgba(102,102,102,0.05)), color-stop(66%, rgba(102,102,102,0)), color-stop(68%, rgba(102,102,102,0.05)), color-stop(99%, rgba(102,102,102,0.05)), color-stop(100%, rgba(102,102,102,0)));
+    background: -webkit-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 32%, rgba(102,102,102,0) 34%, rgba(102,102,102,0.05) 35%, rgba(102,102,102,0.05) 65%, rgba(102,102,102,0) 66%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0.05) 99%, rgba(102,102,102,0) 100%);
+    background: -o-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 32%, rgba(102,102,102,0) 34%, rgba(102,102,102,0.05) 35%, rgba(102,102,102,0.05) 65%, rgba(102,102,102,0) 66%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0.05) 99%, rgba(102,102,102,0) 100%);
+    background: -ms-linear-gradient(left, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 32%, rgba(102,102,102,0) 34%, rgba(102,102,102,0.05) 35%, rgba(102,102,102,0.05) 65%, rgba(102,102,102,0) 66%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0.05) 99%, rgba(102,102,102,0) 100%);
+    background: linear-gradient(to right, rgba(102,102,102,0) 0%, rgba(102,102,102,0.05) 2%, rgba(102,102,102,0.05) 32%, rgba(102,102,102,0) 34%, rgba(102,102,102,0.05) 35%, rgba(102,102,102,0.05) 65%, rgba(102,102,102,0) 66%, rgba(102,102,102,0.05) 68%, rgba(102,102,102,0.05) 99%, rgba(102,102,102,0) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#666666', endColorstr='#666666', GradientType=1 );
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

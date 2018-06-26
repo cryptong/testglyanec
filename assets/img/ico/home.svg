@@ -1,0 +1,24 @@
+<svg width="20" height="22" viewBox="0 0 20 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>home</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1378 1711)">
+<g id="home">
+<g id="Page 1">
+<g id="feather icon">
+<g id="home">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(1379 -1710)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_stroke" transform="translate(1385 -1700)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 7L -0.613941 6.21065C -0.857527 6.4001 -1 6.69141 -1 7L 0 7ZM 9 0L 9.61394 -0.789352C 9.25283 -1.07022 8.74717 -1.07022 8.38606 -0.789352L 9 0ZM 18 7L 19 7C 19 6.69141 18.8575 6.4001 18.6139 6.21065L 18 7ZM 0.613941 7.78935L 9.61394 0.789352L 8.38606 -0.789352L -0.613941 6.21065L 0.613941 7.78935ZM 8.38606 0.789352L 17.3861 7.78935L 18.6139 6.21065L 9.61394 -0.789352L 8.38606 0.789352ZM 17 7L 17 18L 19 18L 19 7L 17 7ZM 17 18C 17 18.5523 16.5523 19 16 19L 16 21C 17.6569 21 19 19.6569 19 18L 17 18ZM 16 19L 2 19L 2 21L 16 21L 16 19ZM 2 19C 1.44772 19 1 18.5523 1 18L -1 18C -1 19.6569 0.343146 21 2 21L 2 19ZM 1 18L 1 7L -1 7L -1 18L 1 18Z"/>
+<path id="path1_stroke" d="M -1 10C -1 10.5523 -0.552285 11 0 11C 0.552285 11 1 10.5523 1 10L -1 10ZM 0 0L 0 -1C -0.552285 -1 -1 -0.552285 -1 2.22045e-16L 0 0ZM 6 0L 7 0C 7 -0.552285 6.55228 -1 6 -1L 6 0ZM 5 10C 5 10.5523 5.44772 11 6 11C 6.55228 11 7 10.5523 7 10L 5 10ZM 1 10L 1 0L -1 0L -1 10L 1 10ZM 0 1L 6 1L 6 -1L 0 -1L 0 1ZM 5 0L 5 10L 7 10L 7 0L 5 0Z"/>
+</defs>
+</svg>

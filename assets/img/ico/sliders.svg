@@ -1,0 +1,47 @@
+<svg width="24" height="20" viewBox="0 0 24 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>sliders</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-870 1768)">
+<g id="sliders">
+<g id="Page 1">
+<g id="feather icon">
+<g id="sliders">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(874 -1756)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(874 -1767)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_stroke" transform="translate(882 -1758)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_stroke" transform="translate(882 -1767)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path2_stroke" transform="translate(890 -1754)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path1_stroke" transform="translate(890 -1767)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_stroke" transform="translate(871 -1756)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_stroke" transform="translate(879 -1762)" fill="#3A4047"/>
+</g>
+<g id="Shape">
+<use xlink:href="#path3_stroke" transform="translate(887 -1754)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M -1 7C -1 7.55228 -0.552285 8 0 8C 0.552285 8 1 7.55228 1 7L -1 7ZM 1 0C 1 -0.552285 0.552285 -1 0 -1C -0.552285 -1 -1 -0.552285 -1 0L 1 0ZM 1 7L 1 0L -1 0L -1 7L 1 7Z"/>
+<path id="path1_stroke" d="M -1 9C -1 9.55229 -0.552285 10 0 10C 0.552285 10 1 9.55229 1 9L -1 9ZM 1 0C 1 -0.552285 0.552285 -1 0 -1C -0.552285 -1 -1 -0.552285 -1 0L 1 0ZM 1 9L 1 0L -1 0L -1 9L 1 9Z"/>
+<path id="path2_stroke" d="M -1 5C -1 5.55228 -0.552285 6 0 6C 0.552285 6 1 5.55228 1 5L -1 5ZM 1 0C 1 -0.552285 0.552285 -1 0 -1C -0.552285 -1 -1 -0.552285 -1 0L 1 0ZM 1 5L 1 0L -1 0L -1 5L 1 5Z"/>
+<path id="path3_stroke" d="M 0 -1C -0.552285 -1 -1 -0.552285 -1 0C -1 0.552285 -0.552285 1 0 1L 0 -1ZM 6 1C 6.55228 1 7 0.552285 7 0C 7 -0.552285 6.55228 -1 6 -1L 6 1ZM 0 1L 6 1L 6 -1L 0 -1L 0 1Z"/>
+</defs>
+</svg>

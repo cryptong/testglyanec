@@ -1,0 +1,20 @@
+<svg width="16" height="20" viewBox="0 0 16 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>play</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-1380 1650)">
+<g id="play">
+<g id="Page 1">
+<g id="feather icon">
+<g id="play">
+<g id="Shape">
+<use xlink:href="#path0_stroke" transform="translate(1381 -1649)" fill="#3A4047"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_stroke" d="M 0 0L 0.540758 -0.841178C 0.233049 -1.03899 -0.158115 -1.053 -0.479188 -0.877712C -0.800261 -0.702422 -1 -0.365807 -1 1.86779e-16L 0 0ZM 14 9L 14.5408 9.84118C 14.827 9.65718 15 9.34026 15 9C 15 8.65974 14.827 8.34282 14.5408 8.15882L 14 9ZM 0 18L -1 18C -1 18.3658 -0.800261 18.7024 -0.479188 18.8777C -0.158115 19.053 0.233049 19.039 0.540758 18.8412L 0 18ZM -0.540758 0.841178L 13.4592 9.84118L 14.5408 8.15882L 0.540758 -0.841178L -0.540758 0.841178ZM 13.4592 8.15882L -0.540758 17.1588L 0.540758 18.8412L 14.5408 9.84118L 13.4592 8.15882ZM 1 18L 1 0L -1 0L -1 18L 1 18Z"/>
+</defs>
+</svg>
